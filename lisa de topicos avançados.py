@@ -1,3 +1,4 @@
+LISTA
 
 '''
 lista = [7.5, 8.0, 6.0, 9.5, 5.0]
@@ -14,8 +15,12 @@ for i, aluno in enumerate(lista, start=1):
     print (f'Aluno {i}: {aluno}')
 '''
 
+
+
+'''
 numeros = [3, 17, 8, 42, 5, 100, 23, 66, 11, 99]
 
+'''
 '''
 for num in numeros:
     if num % 2 == 0:
@@ -24,6 +29,12 @@ for num in numeros:
 '''
 nova_lista = [n for n in numeros if n > 20]
 '''
-
+'''
 total = sum(numeros)
 print (total)
+'''
+
+DICIONARIO
+
+
+
