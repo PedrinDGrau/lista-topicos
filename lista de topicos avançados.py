@@ -34,7 +34,6 @@ total = sum(numeros)
 print (total)
 '''
 
-DICIONARIO
 
 
 
